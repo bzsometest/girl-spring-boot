@@ -1,0 +1,6 @@
+server:
+  port: 8082
+  context-path: /girl
+girl:
+    cpuSize: Chen
+    age: 20
